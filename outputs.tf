@@ -1,7 +1,1 @@
-output "instance_ami" {
-  value = aws_instance.blog.ami
-}
-
-output "instance_arn" {
-  value = aws_instance.blog.arn
-}
+# We can't use the outputs that were here anymore
